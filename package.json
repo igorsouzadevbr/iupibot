@@ -1,0 +1,29 @@
+{
+  "name": "iupibott",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "har-validator": "^5.1.5",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "phantomjs": "^2.1.7",
+    "puppeteer": "^13.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "telegraf": "4.5.2",
+    "uuid": "^8.3.2",
+    "webpack": "^5.65.0",
+    "webpage": "^0.3.0"
+  }
+}
